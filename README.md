@@ -2,7 +2,7 @@
 
 I like various OSes, but only the Unix based are deep in my heart 🩷
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSigma123&hide_progress=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSigma123&hide_progress=true&theme=tokyonight">
 
 <!--
 **MrSigma123/MrSigma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
