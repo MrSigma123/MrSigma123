@@ -2,6 +2,8 @@
 
 Computer Science student interested in backend and fullstack development.
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karolczolpinski&theme=dark" alt="mystreak"/>
+
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,java,python)
 
@@ -16,5 +18,3 @@ Computer Science student interested in backend and fullstack development.
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=apple,linux,windows,neovim,vscode,git,github)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karolczolpinski&theme=dark" alt="mystreak"/>
