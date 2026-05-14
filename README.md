@@ -14,7 +14,7 @@ Computer Science student interested in backend and fullstack development.
 ![Backend Technologies](https://skillicons.dev/icons?i=django)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,sqlite,jira)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,sqlite)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=apple,linux,windows,neovim,vscode,git,github)
