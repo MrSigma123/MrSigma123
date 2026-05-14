@@ -9,4 +9,4 @@ Computer Science student interested in backend and fullstack development.
 - Python
 - PostgreSQL
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karolczolpinski&theme=tokyonight" alt="mystreak"/>
