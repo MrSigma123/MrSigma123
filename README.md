@@ -1,6 +1,4 @@
-# Hi there
-
-Computer Science student interested in backend and fullstack development.
+# Hi
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karolczolpinski&theme=dark" alt="mystreak"/>
 
