@@ -1,4 +1,4 @@
-# Hi, I'm Karol
+# Hi there
 
 Computer Science student interested in backend and fullstack development.
 
